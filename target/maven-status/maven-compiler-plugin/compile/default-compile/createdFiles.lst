@@ -1,0 +1,5 @@
+com\sovy\nakupeclipse\NakupDao.class
+com\sovy\nakupeclipse\HelloController.class
+com\sovy\nakupeclipse\NakupeclipseRestApplication.class
+com\sovy\nakupeclipse\Nakup.class
+com\sovy\nakupeclipse\HibernateUtil.class
