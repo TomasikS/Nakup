@@ -41,11 +41,11 @@ public class HelloController {
         nakupDao.saveNakup(nakup);
     }
 
-    @DELETE
-    @Path("/del/{id}")
-    public void deleteNakupById(@PathParam("id") int id) {
-        nakupDao.deleteNakup(id);
-    }
+  ///  @DELETE
+ //   @Path("/del/{id}")
+   // public void deleteNakupById(@PathParam("id") int id) {
+     //   nakupDao.deleteNakup(id);
+    //}
 
 
 }
